@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SendSMS</string>
+    <string name="contacts">Contacts</string>
+    <string name="messages">Messages</string>
+    <string name="send">Send Message</string>
+    <string name="message">Hi. Your OTP is</string>
+    <string name="sent">Send</string>
+
+</resources>
