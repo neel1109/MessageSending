@@ -1,6 +1,4 @@
 package com.example.sendsms.activity;
-
-
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.Intent;
